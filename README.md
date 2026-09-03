@@ -1,2 +1,1 @@
-# Script-
-I'm a IT
+print("hello,worl")
